@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">底部菜单</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_select">SelectActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="article">嗅事</string>
+    <string name="movie">阅读</string>
+    <string name="more">聊天</string>
+</resources>
